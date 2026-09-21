@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "UCRT64",
+            "compilerPath": "D:/IT launchers/ucrt64/bin/g++.exe",
+            "intelliSenseMode": "windows-gcc-x64",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/IT launchers/ucrt64/include"
+            ]
+        }
+    ],
+    "version": 4
+}
